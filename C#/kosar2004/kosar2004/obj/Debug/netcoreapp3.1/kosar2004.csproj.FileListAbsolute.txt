@@ -1,0 +1,13 @@
+D:\VisualStudioConsolapps\OKJ\kosar2004\kosar2004\obj\Debug\netcoreapp3.1\kosar2004.csprojAssemblyReference.cache
+D:\VisualStudioConsolapps\OKJ\kosar2004\kosar2004\obj\Debug\netcoreapp3.1\kosar2004.csproj.CoreCompileInputs.cache
+D:\VisualStudioConsolapps\OKJ\kosar2004\kosar2004\obj\Debug\netcoreapp3.1\kosar2004.AssemblyInfoInputs.cache
+D:\VisualStudioConsolapps\OKJ\kosar2004\kosar2004\obj\Debug\netcoreapp3.1\kosar2004.AssemblyInfo.cs
+D:\VisualStudioConsolapps\OKJ\kosar2004\kosar2004\bin\Debug\netcoreapp3.1\kosar2004.exe
+D:\VisualStudioConsolapps\OKJ\kosar2004\kosar2004\bin\Debug\netcoreapp3.1\kosar2004.deps.json
+D:\VisualStudioConsolapps\OKJ\kosar2004\kosar2004\bin\Debug\netcoreapp3.1\kosar2004.runtimeconfig.json
+D:\VisualStudioConsolapps\OKJ\kosar2004\kosar2004\bin\Debug\netcoreapp3.1\kosar2004.runtimeconfig.dev.json
+D:\VisualStudioConsolapps\OKJ\kosar2004\kosar2004\bin\Debug\netcoreapp3.1\kosar2004.dll
+D:\VisualStudioConsolapps\OKJ\kosar2004\kosar2004\bin\Debug\netcoreapp3.1\kosar2004.pdb
+D:\VisualStudioConsolapps\OKJ\kosar2004\kosar2004\obj\Debug\netcoreapp3.1\kosar2004.dll
+D:\VisualStudioConsolapps\OKJ\kosar2004\kosar2004\obj\Debug\netcoreapp3.1\kosar2004.pdb
+D:\VisualStudioConsolapps\OKJ\kosar2004\kosar2004\obj\Debug\netcoreapp3.1\kosar2004.genruntimeconfig.cache
