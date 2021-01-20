@@ -1,0 +1,13 @@
+D:\VisualStudioConsolapps\OKJ\metjelentes\metjelentes\bin\Debug\netcoreapp3.1\metjelentes.exe
+D:\VisualStudioConsolapps\OKJ\metjelentes\metjelentes\bin\Debug\netcoreapp3.1\metjelentes.deps.json
+D:\VisualStudioConsolapps\OKJ\metjelentes\metjelentes\bin\Debug\netcoreapp3.1\metjelentes.runtimeconfig.json
+D:\VisualStudioConsolapps\OKJ\metjelentes\metjelentes\bin\Debug\netcoreapp3.1\metjelentes.runtimeconfig.dev.json
+D:\VisualStudioConsolapps\OKJ\metjelentes\metjelentes\bin\Debug\netcoreapp3.1\metjelentes.dll
+D:\VisualStudioConsolapps\OKJ\metjelentes\metjelentes\bin\Debug\netcoreapp3.1\metjelentes.pdb
+D:\VisualStudioConsolapps\OKJ\metjelentes\metjelentes\obj\Debug\netcoreapp3.1\metjelentes.csprojAssemblyReference.cache
+D:\VisualStudioConsolapps\OKJ\metjelentes\metjelentes\obj\Debug\netcoreapp3.1\metjelentes.csproj.CoreCompileInputs.cache
+D:\VisualStudioConsolapps\OKJ\metjelentes\metjelentes\obj\Debug\netcoreapp3.1\metjelentes.AssemblyInfoInputs.cache
+D:\VisualStudioConsolapps\OKJ\metjelentes\metjelentes\obj\Debug\netcoreapp3.1\metjelentes.AssemblyInfo.cs
+D:\VisualStudioConsolapps\OKJ\metjelentes\metjelentes\obj\Debug\netcoreapp3.1\metjelentes.dll
+D:\VisualStudioConsolapps\OKJ\metjelentes\metjelentes\obj\Debug\netcoreapp3.1\metjelentes.pdb
+D:\VisualStudioConsolapps\OKJ\metjelentes\metjelentes\obj\Debug\netcoreapp3.1\metjelentes.genruntimeconfig.cache
