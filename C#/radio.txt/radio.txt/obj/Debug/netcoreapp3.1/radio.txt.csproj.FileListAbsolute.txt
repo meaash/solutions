@@ -1,0 +1,13 @@
+D:\VisualStudioConsolapps\OKJ\radio.txt\radio.txt\obj\Debug\netcoreapp3.1\radio.txt.csprojAssemblyReference.cache
+D:\VisualStudioConsolapps\OKJ\radio.txt\radio.txt\obj\Debug\netcoreapp3.1\radio.txt.csproj.CoreCompileInputs.cache
+D:\VisualStudioConsolapps\OKJ\radio.txt\radio.txt\obj\Debug\netcoreapp3.1\radio.txt.AssemblyInfoInputs.cache
+D:\VisualStudioConsolapps\OKJ\radio.txt\radio.txt\obj\Debug\netcoreapp3.1\radio.txt.AssemblyInfo.cs
+D:\VisualStudioConsolapps\OKJ\radio.txt\radio.txt\bin\Debug\netcoreapp3.1\radio.txt.exe
+D:\VisualStudioConsolapps\OKJ\radio.txt\radio.txt\bin\Debug\netcoreapp3.1\radio.txt.deps.json
+D:\VisualStudioConsolapps\OKJ\radio.txt\radio.txt\bin\Debug\netcoreapp3.1\radio.txt.runtimeconfig.json
+D:\VisualStudioConsolapps\OKJ\radio.txt\radio.txt\bin\Debug\netcoreapp3.1\radio.txt.runtimeconfig.dev.json
+D:\VisualStudioConsolapps\OKJ\radio.txt\radio.txt\bin\Debug\netcoreapp3.1\radio.txt.dll
+D:\VisualStudioConsolapps\OKJ\radio.txt\radio.txt\bin\Debug\netcoreapp3.1\radio.txt.pdb
+D:\VisualStudioConsolapps\OKJ\radio.txt\radio.txt\obj\Debug\netcoreapp3.1\radio.txt.dll
+D:\VisualStudioConsolapps\OKJ\radio.txt\radio.txt\obj\Debug\netcoreapp3.1\radio.txt.pdb
+D:\VisualStudioConsolapps\OKJ\radio.txt\radio.txt\obj\Debug\netcoreapp3.1\radio.txt.genruntimeconfig.cache
