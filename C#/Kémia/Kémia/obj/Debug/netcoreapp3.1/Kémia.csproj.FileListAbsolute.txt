@@ -1,0 +1,13 @@
+D:\VisualStudioConsolapps\OKJ\Kémia\Kémia\bin\Debug\netcoreapp3.1\Kémia.exe
+D:\VisualStudioConsolapps\OKJ\Kémia\Kémia\bin\Debug\netcoreapp3.1\Kémia.deps.json
+D:\VisualStudioConsolapps\OKJ\Kémia\Kémia\bin\Debug\netcoreapp3.1\Kémia.runtimeconfig.json
+D:\VisualStudioConsolapps\OKJ\Kémia\Kémia\bin\Debug\netcoreapp3.1\Kémia.runtimeconfig.dev.json
+D:\VisualStudioConsolapps\OKJ\Kémia\Kémia\bin\Debug\netcoreapp3.1\Kémia.dll
+D:\VisualStudioConsolapps\OKJ\Kémia\Kémia\bin\Debug\netcoreapp3.1\Kémia.pdb
+D:\VisualStudioConsolapps\OKJ\Kémia\Kémia\obj\Debug\netcoreapp3.1\Kémia.csprojAssemblyReference.cache
+D:\VisualStudioConsolapps\OKJ\Kémia\Kémia\obj\Debug\netcoreapp3.1\Kémia.AssemblyInfoInputs.cache
+D:\VisualStudioConsolapps\OKJ\Kémia\Kémia\obj\Debug\netcoreapp3.1\Kémia.AssemblyInfo.cs
+D:\VisualStudioConsolapps\OKJ\Kémia\Kémia\obj\Debug\netcoreapp3.1\Kémia.dll
+D:\VisualStudioConsolapps\OKJ\Kémia\Kémia\obj\Debug\netcoreapp3.1\Kémia.pdb
+D:\VisualStudioConsolapps\OKJ\Kémia\Kémia\obj\Debug\netcoreapp3.1\Kémia.csproj.CoreCompileInputs.cache
+D:\VisualStudioConsolapps\OKJ\Kémia\Kémia\obj\Debug\netcoreapp3.1\Kémia.genruntimeconfig.cache
