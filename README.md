@@ -1,3 +1,3 @@
 # meaas_solutions
 
-OKJ feladatok lehetséges megoldása C# és Java nyelveken
+OKJ és érettségi feladatok lehetséges megoldása C# és Java nyelveken
